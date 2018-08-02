@@ -1,4 +1,0 @@
-postfix:
-  build: .
-  hostname: "smtp.yourserver.com"
-  restart: always
